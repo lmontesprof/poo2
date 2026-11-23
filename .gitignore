@@ -11,4 +11,4 @@
 *.idea/
 target/
 # SQLite JDBC dependency included with the NetBeans library project
-!base_datos/BibliotecaJavaApplication1/libs/*.jar
+!BibliotecaJavaApplication1/libs/*.jar
